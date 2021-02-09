@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Michael. I am a programmer for about 20 years now, mostly in [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)](https://www.php.net).
+My name is Michael. I am a programmer for about 20 years now, mostly in [![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)](https://www.php.net). I love wood working 🪵🪚 in my spare time.
 
 ## Contact me?
 
